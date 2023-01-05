@@ -1,10 +1,5 @@
-[
-    {
-        "nome": "curso de java",
-        "descricao": "Curso de java",
-
-
-
-        private int cargaHoraria;
-    }
-]
+{
+  "nome": "curso de java",
+  "descricao": "Curso de java",
+  "cargaHoraria": 100
+}
