@@ -1,6 +1,6 @@
 # TDD-Java
 
-✅ Api rest com testes
+🌐 Api rest com testes
 
 Api criada a partir do [vídeo](https://youtu.be/be3T6PXJEfk) da [Daniele Leão](https://github.com/danileao)
 
